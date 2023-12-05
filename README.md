@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-cf-helloworld-nodejs)](https://api.reuse.software/info/github.com/SAP-samples/cloud-cf-helloworld-nodejs)
 
-# Cloud Foundry - Hello World Sample using NodeJS
+# Cloud Foundry - Hello World Sample using NodeJS language
 
 ## Description
 This is a "Hello World" application for the SAP Cloud Platform Cloud Foundry Environment that spans over several chapters (branches). You will learn:  
